@@ -1,0 +1,64 @@
+D:\Projects\SP PRICING 1 Dec\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\Projects\SP PRICING 1 Dec\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\Projects\SP PRICING 1 Dec\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\Projects\SP PRICING 1 Dec\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\Projects\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\Projects\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\Projects\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\Projects\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\Shweta\SP Automation\Application\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\Shweta\SP Automation\Application\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\Shweta\SP Automation\Application\SPPricing\ModelClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Shweta\SP Automation\Application\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\Shweta\SP Automation\Application\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\New folder\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\New folder\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\New folder\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\New folder\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\17 January NEw Design\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\17 January NEw Design\SPPricing\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\17 January NEw Design\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.csprojResolveAssemblyReference.cache
+D:\17 January NEw Design\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\17 January NEw Design\SPPricing\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\New folder\21 January New Design SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\New folder\21 January New Design SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\New folder\21 January New Design SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\New folder\21 January New Design SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\New folder\21 January New Design SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.csprojResolveAssemblyReference.cache
+D:\New folder\2 March SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\New folder\2 March SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\New folder\2 March SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\New folder\2 March SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\Shweta\SP Automation\Application\2 March SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\Shweta\SP Automation\Application\2 March SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\Shweta\SP Automation\Application\2 March SP\ModelClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Shweta\SP Automation\Application\2 March SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\Shweta\SP Automation\Application\2 March SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\New folder\21 March SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\New folder\21 March SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\New folder\21 March SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\New folder\21 March SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\New folder\22 Mar 2016\21 March SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\New folder\22 Mar 2016\21 March SP\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\New folder\22 Mar 2016\21 March SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\New folder\22 Mar 2016\21 March SP\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\New folder\1 April\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\New folder\1 April\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\New folder\1 April\ModelClassLibrary\obj\Debug\ModelClassLibrary.csprojResolveAssemblyReference.cache
+D:\New folder\1 April\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\New folder\1 April\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\New folder\1 April  SP_UAT\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\New folder\1 April  SP_UAT\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\New folder\1 April  SP_UAT\ModelClassLibrary\obj\Debug\ModelClassLibrary.csprojResolveAssemblyReference.cache
+D:\New folder\1 April  SP_UAT\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\New folder\1 April  SP_UAT\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\Shweta\SP Automation\Application\1 April  SP_UAT\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\Shweta\SP Automation\Application\1 April  SP_UAT\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\Shweta\SP Automation\Application\1 April  SP_UAT\ModelClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Shweta\SP Automation\Application\1 April  SP_UAT\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\Shweta\SP Automation\Application\1 April  SP_UAT\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
+D:\Shweta\SP Automation\Application\2 June  SP_UAT\ModelClassLibrary\bin\Debug\ModelClassLibrary.dll
+D:\Shweta\SP Automation\Application\2 June  SP_UAT\ModelClassLibrary\bin\Debug\ModelClassLibrary.pdb
+D:\Shweta\SP Automation\Application\2 June  SP_UAT\ModelClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Shweta\SP Automation\Application\2 June  SP_UAT\ModelClassLibrary\obj\Debug\ModelClassLibrary.dll
+D:\Shweta\SP Automation\Application\2 June  SP_UAT\ModelClassLibrary\obj\Debug\ModelClassLibrary.pdb
